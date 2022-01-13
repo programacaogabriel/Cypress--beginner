@@ -1,6 +1,7 @@
 # Cypress--beginner
  Studying this amazing testing tool.
 
-Integração continua via gitlab
+
+Integration continues  gitlab 
 
 https://gitlab.com/programacaogabriel
